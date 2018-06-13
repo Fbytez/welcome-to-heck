@@ -6,6 +6,6 @@
             Collision2D Physics2D]
            ArcadiaState))
 
-(def game-start []
-  "Link start."
+(defn game-start []
+  (log "Heck day")
   )
